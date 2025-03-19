@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Dragos 👋</h1>
 <h3 align="center">A dedicated computer science student</h3>
 
-- 🔭 I'm currently pursuing a **Bachelor's degree in Computer Science** at the **Faculty of Automatic & Control**, University Politehnica of Bucharest
+- 🔭 I'm currently pursuing a **Bachelor's degree in Computer Science** at the **Faculty of Automatic Control and Computer Science**, University Politehnica of Bucharest
 
 - 🤔 I'm actively seeking `internships` and exciting opportunities in the tech industry
 
