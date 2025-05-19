@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **dragos.o.dragan@gmail.com**
 
-- 📄 Find more about my background in my [CV] (https://drive.google.com/file/d/1H9-G0q8Dss6ADNGI29tbLX0ohIK4Q5wT/view?usp=share_link)
+- 📄 Find more about my background in my [CV]: (https://drive.google.com/file/d/1H9-G0q8Dss6ADNGI29tbLX0ohIK4Q5wT/view?usp=share_link)
 
 - 🚀 My goal is to **contribute to innovative projects that solve real-world problems and have a positive impact on society**
   
