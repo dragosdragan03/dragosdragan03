@@ -3,9 +3,7 @@
 
 - 🔭 I'm currently pursuing a **Bachelor's degree in Computer Science** at the **Faculty of Automatic Control and Computer Science**, Politehnica University of Bucharest
 
-- 🤔 I'm actively seeking `internships` and exciting opportunities in the tech industry
-
-- 🌱 I’m currently learning **Database, Artificial Inteligence**
+- 🌱 I’m currently learning **Concurrent and Distributed Systems, Artificial Inteligence**
 
 - 💬 Ask me about **C++, Java, Networking and Algorithms**
 
